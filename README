@@ -1,6 +1,8 @@
 Projekt slouží k interaktivní vizualizaci známých fraktálů, konkrétně Mandelbrotovy a Juliovy množiny. 
 Uživatel si může nastavovat parametry generování a barvy, a zkoumat tak různé části fraktálů v reálném čase.
 
+-Spuštění aplikace
+  -Projekt spusťte z kořenové složky příkazem:python -m gui.app
 
 - Efektivní generování Mandelbrotovy a Juliovy množiny pomocí `NumPy` a `Numba`
 - Interaktivní rozhraní pomocí `matplotlib.widgets`:
